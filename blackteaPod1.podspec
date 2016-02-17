@@ -1,12 +1,12 @@
 
 Pod::Spec.new do |s|
   s.name             = "blackteaPod1"
-  s.version          = "0.1.0"
+  s.version          = "0.0.3"
   s.summary          = "A short description of blackteaPod1."
   s.homepage         = "https://github.com/tyforfreedom/BlackteaPodTag"
   s.license          = 'MIT'
   s.author           = { "tim.hong" => "tim.hong@zuolin.com" }
-  s.source           = { :git => "https://github.com/tyforfreedom/BlackteaPodTag.git", :tag => s.version.to_s}
+  s.source           = { :git => "https://github.com/tyforfreedom/BlackteaPodTag.git", :tag => 0.0.3}
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '7.0'
