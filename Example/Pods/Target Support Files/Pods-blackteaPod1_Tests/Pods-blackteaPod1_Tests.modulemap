@@ -1,0 +1,6 @@
+framework module Pods_blackteaPod1_Tests {
+  umbrella header "Pods-blackteaPod1_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

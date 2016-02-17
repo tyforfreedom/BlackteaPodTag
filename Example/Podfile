@@ -1,0 +1,12 @@
+source 'https://gitcafe.com/akuandev/Specs.git'
+use_frameworks!
+
+target 'blackteaPod1_Example', :exclusive => true do
+  pod 'blackteaPod1', :path => '../'
+end
+
+target 'blackteaPod1_Tests', :exclusive => true do
+  pod 'blackteaPod1', :path => '../'
+
+  
+end

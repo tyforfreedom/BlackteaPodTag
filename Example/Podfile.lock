@@ -1,0 +1,14 @@
+PODS:
+  - blackteaPod1 (0.1.0)
+
+DEPENDENCIES:
+  - blackteaPod1 (from `../`)
+
+EXTERNAL SOURCES:
+  blackteaPod1:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  blackteaPod1: d8fa30a394d11a603e717f9360309f27fa1b795b
+
+COCOAPODS: 0.39.0
