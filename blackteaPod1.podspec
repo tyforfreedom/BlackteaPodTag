@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "blackteaPod1"
-  s.version          = "0.1.0"
+  s.version          = "0.0.1"
   s.summary          = "A short description of blackteaPod1."
   s.homepage         = "https://github.com/tyforfreedom/BlackteaPodTag"
   s.license          = 'MIT'
