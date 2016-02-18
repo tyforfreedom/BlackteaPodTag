@@ -1,14 +1,30 @@
-PODS:
-  - blackteaPod1 (0.1.0)
+>-
+  PODS:
+  - >-
+    blackteaPod1 (0.0.4)
 
-DEPENDENCIES:
-  - blackteaPod1 (from `../`)
+>-
+  DEPENDENCIES:
+  - >-
+    blackteaPod1 (from `../`)
 
-EXTERNAL SOURCES:
-  blackteaPod1:
-    :path: "../"
+>-
+  EXTERNAL SOURCES:
+  >-
+    blackteaPod1:
+    :path: >-
+      ../
 
-SPEC CHECKSUMS:
-  blackteaPod1: d8fa30a394d11a603e717f9360309f27fa1b795b
+>-
+  SPEC CHECKSUMS:
+  >-
+    blackteaPod1: >-
+    9f748b2ea6b65a0bae967707607b42908a204812
 
-COCOAPODS: 0.39.0
+>-
+  PODFILE CHECKSUM: >-
+  923da9c69d2c5f9d8fe8653e839a73da8711cea5
+
+>-
+  COCOAPODS: >-
+  1.0.0.beta.3

@@ -7,28 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1AE6843BA0AA3DF1F0FF9880D91D45AD /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = F76A79E82429BE05F35C02ADFBAD0670 /* ReplaceMe.m */; };
-		28D8FF3543AA11889B93C32028595544 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
-		33986DD99E0E5399D4EEB50639051D1F /* Pods-blackteaPod1_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B9DF69CE5F07EEBB4BF699D035F00F7 /* Pods-blackteaPod1_Example-dummy.m */; };
-		7181FFC2807ADDED5C7AB27D39E82552 /* Pods-blackteaPod1_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 96D3AA4CEBFFFA3BE5A1BD9043E7EBEA /* Pods-blackteaPod1_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		800EAB2A0DC9550E542544DCB78EE49C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
-		B11A5B5C91C379DD4F6781E1DF4E29AC /* blackteaPod1.bundle in Resources */ = {isa = PBXBuildFile; fileRef = ABE9C1EB2126D46CE922CD19F930BA49 /* blackteaPod1.bundle */; };
-		B96263C6C8E00D42ABB4F04AB742E5C6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
-		D3F3351BBEC23B789C577359C0BF8728 /* blackteaPod1-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CEA78519164B41BCF1BE5831A8681FC9 /* blackteaPod1-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F0369DF5BB6755DA8C8CC1A8490B0FC0 /* blackteaPod1-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 95C36805D0EECD43C3B3B92F18691A81 /* blackteaPod1-dummy.m */; };
-		F7CCD783E7B64C01BF5BA390D4C89C23 /* Pods-blackteaPod1_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7347B0AA1725CB9BCC24118176DBFED9 /* Pods-blackteaPod1_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		FA9358D58DD5F62AB63A9120E47264D0 /* Pods-blackteaPod1_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B196D884E03C1DCDAF3A16FA822F844 /* Pods-blackteaPod1_Tests-dummy.m */; };
+		08C63BF4B9A5D32AF938A3EF65A0BD02 /* Pods-blackteaPod1_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B196D884E03C1DCDAF3A16FA822F844 /* Pods-blackteaPod1_Tests-dummy.m */; };
+		1AE6843BA0AA3DF1F0FF9880D91D45AD /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D822D733BE9F691372E06452558D6EF /* ReplaceMe.m */; };
+		223EA93944F8E709E407E8A8D0BD868F /* Pods-blackteaPod1_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B9DF69CE5F07EEBB4BF699D035F00F7 /* Pods-blackteaPod1_Example-dummy.m */; };
+		346B2E0519DBF5BCA0F6BF61F0C007CF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3997E5D2953ECDF377B85B234FDF550D /* Foundation.framework */; };
+		44FD24377D0BCB4A11F3CD91A372F7CB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3997E5D2953ECDF377B85B234FDF550D /* Foundation.framework */; };
+		46B65979A619335CF190CCB64D44004A /* Pods-blackteaPod1_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7347B0AA1725CB9BCC24118176DBFED9 /* Pods-blackteaPod1_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B11A5B5C91C379DD4F6781E1DF4E29AC /* blackteaPod1.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 38D034EF074538985E6E031A614EC91D /* blackteaPod1.bundle */; };
+		D3F3351BBEC23B789C577359C0BF8728 /* blackteaPod1-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9C765C108AF253544B9AE2E125EA25 /* blackteaPod1-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D7AD181F22FF3E5C670974B9D06D33A0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3997E5D2953ECDF377B85B234FDF550D /* Foundation.framework */; };
+		E0775BC225FFB810BD30539455FC5B66 /* Pods-blackteaPod1_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 96D3AA4CEBFFFA3BE5A1BD9043E7EBEA /* Pods-blackteaPod1_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F0369DF5BB6755DA8C8CC1A8490B0FC0 /* blackteaPod1-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 852C7EE33A4FE0890E9E7B334D13430C /* blackteaPod1-dummy.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		10B46259023FD5FC57A95445BB1703AB /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = DE5B283914D272330A4D1F08CE44C06C;
-			remoteInfo = blackteaPod1;
-		};
-		951B5BD5D7EAA7FD37F42A16BE8813C1 /* PBXContainerItemProxy */ = {
+		4510E70302A2ED241FA8966945F3FDF4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
@@ -42,6 +35,13 @@
 			remoteGlobalIDString = 0C71DCAFB2D1F24B0C0014F1BD75A91D;
 			remoteInfo = "blackteaPod1-blackteaPod1";
 		};
+		F025384F23D1E82D11849D74F59BAE79 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DE5B283914D272330A4D1F08CE44C06C;
+			remoteInfo = blackteaPod1;
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
@@ -49,51 +49,52 @@
 		0E2F8893F88895584CE5B4F93D269A58 /* Pods-blackteaPod1_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-blackteaPod1_Example.modulemap"; sourceTree = "<group>"; };
 		0E6E5D8EFAC550C7576411D0DCCB78B7 /* Pods-blackteaPod1_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-blackteaPod1_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		1232C65604578E0D550FF2B536597D54 /* Pods-blackteaPod1_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-blackteaPod1_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		197B2813F96353DF1F67ADC3C1ACD9E8 /* Pods_blackteaPod1_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_blackteaPod1_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		229D0B9F6C31BEAB2956E8FEBEFA4E4D /* Pods-blackteaPod1_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-blackteaPod1_Tests-resources.sh"; sourceTree = "<group>"; };
 		22F654955FF8208CBA2FCB6DE9874288 /* Pods-blackteaPod1_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-blackteaPod1_Example-frameworks.sh"; sourceTree = "<group>"; };
-		3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		38D034EF074538985E6E031A614EC91D /* blackteaPod1.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = blackteaPod1.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		3997E5D2953ECDF377B85B234FDF550D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		47748DAD1816F8EC3E5C784EE108A5C9 /* Pods-blackteaPod1_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-blackteaPod1_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		4B9DF69CE5F07EEBB4BF699D035F00F7 /* Pods-blackteaPod1_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-blackteaPod1_Example-dummy.m"; sourceTree = "<group>"; };
+		516353FE831D603166D9BDBCD8203D21 /* blackteaPod1.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = blackteaPod1.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5D822D733BE9F691372E06452558D6EF /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ReplaceMe.m; sourceTree = "<group>"; };
 		6D79FE245A7F09CB3DFF2EEEC50C64F4 /* Pods-blackteaPod1_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-blackteaPod1_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		6F206016E4CD1863A51039EE240E1269 /* Pods-blackteaPod1_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-blackteaPod1_Tests.modulemap"; sourceTree = "<group>"; };
 		7347B0AA1725CB9BCC24118176DBFED9 /* Pods-blackteaPod1_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-blackteaPod1_Tests-umbrella.h"; sourceTree = "<group>"; };
 		7B196D884E03C1DCDAF3A16FA822F844 /* Pods-blackteaPod1_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-blackteaPod1_Tests-dummy.m"; sourceTree = "<group>"; };
-		8622BC6BB2C043D39A49087E6E775AAF /* blackteaPod1.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = blackteaPod1.xcconfig; sourceTree = "<group>"; };
-		95C36805D0EECD43C3B3B92F18691A81 /* blackteaPod1-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "blackteaPod1-dummy.m"; sourceTree = "<group>"; };
+		852C7EE33A4FE0890E9E7B334D13430C /* blackteaPod1-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "blackteaPod1-dummy.m"; sourceTree = "<group>"; };
+		928546A67A3548CD899E4820657B01D7 /* blackteaPod1.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = blackteaPod1.modulemap; sourceTree = "<group>"; };
 		96D3AA4CEBFFFA3BE5A1BD9043E7EBEA /* Pods-blackteaPod1_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-blackteaPod1_Example-umbrella.h"; sourceTree = "<group>"; };
+		971D4576CA42661726FCEE4DD927CD51 /* Pods_blackteaPod1_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_blackteaPod1_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9C9C765C108AF253544B9AE2E125EA25 /* blackteaPod1-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "blackteaPod1-umbrella.h"; sourceTree = "<group>"; };
 		9F4EADFFF26126DFD93F653B747C07D5 /* Pods-blackteaPod1_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-blackteaPod1_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		A56EF7B6BFC1B56B5B00E62EBE54F3BE /* ResourceBundle-blackteaPod1-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-blackteaPod1-Info.plist"; sourceTree = "<group>"; };
 		A68EB7323C7093B946113323218CF5EB /* Pods-blackteaPod1_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-blackteaPod1_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		ABE9C1EB2126D46CE922CD19F930BA49 /* blackteaPod1.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = blackteaPod1.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		AD788DD16520C1EA345C9A24F7B519B4 /* blackteaPod1-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "blackteaPod1-prefix.pch"; sourceTree = "<group>"; };
 		BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		BDC890A39BEE2A0A5211D2269AFE10E9 /* Pods-blackteaPod1_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-blackteaPod1_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		C5A98972A8FD7E20ECFDD29433A0E774 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CEA78519164B41BCF1BE5831A8681FC9 /* blackteaPod1-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "blackteaPod1-umbrella.h"; sourceTree = "<group>"; };
-		D01F10D94C356204A01AAEB89F381CBC /* blackteaPod1.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = blackteaPod1.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		D3DE80D56A870F1C1810C7BB214CBAE8 /* Pods_blackteaPod1_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_blackteaPod1_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C4DA15CDF343E11D0AD2DD4470203F6D /* blackteaPod1.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = blackteaPod1.xcconfig; sourceTree = "<group>"; };
 		DF43DB7A2F41B69A9A52BFB71EA8B1BB /* Pods-blackteaPod1_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-blackteaPod1_Example.release.xcconfig"; sourceTree = "<group>"; };
-		E24CDC2A18E08FE16B7FAA728ECAD6F7 /* blackteaPod1.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = blackteaPod1.modulemap; sourceTree = "<group>"; };
 		E9D18D49D96F780880BAC66368E0B5CD /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EBA4B98B0E2FF17D2707C68C296BBA8D /* Pods-blackteaPod1_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-blackteaPod1_Example-resources.sh"; sourceTree = "<group>"; };
-		EC3B7AEF6633408E6508C3E581F1C2E0 /* Pods_blackteaPod1_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_blackteaPod1_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		F4351EA39E529A6D2A054209093C5B5B /* blackteaPod1-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "blackteaPod1-prefix.pch"; sourceTree = "<group>"; };
-		F76A79E82429BE05F35C02ADFBAD0670 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ReplaceMe.m; sourceTree = "<group>"; };
+		ECCF3675B609E200A942514E3D4870AD /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FE53EB67EDD273DAFDC5290185631D89 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		2EBDCC6F36F3EAE45CE5B68915629F5A /* Frameworks */ = {
+		6F2C41A79177735EDF298B7961AF7C8F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				28D8FF3543AA11889B93C32028595544 /* Foundation.framework in Frameworks */,
+				D7AD181F22FF3E5C670974B9D06D33A0 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		58B82CF46242F2C57713B88F3FF975CD /* Frameworks */ = {
+		76296F73E7CC7F6A16E380276F6618E0 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B96263C6C8E00D42ABB4F04AB742E5C6 /* Foundation.framework in Frameworks */,
+				346B2E0519DBF5BCA0F6BF61F0C007CF /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -108,7 +109,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				800EAB2A0DC9550E542544DCB78EE49C /* Foundation.framework in Frameworks */,
+				44FD24377D0BCB4A11F3CD91A372F7CB /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -118,9 +119,17 @@
 		0D437DFD0862670EB322F53A1DE7E4CD /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				23F7F6159AC58D07BBB2BACE24BCE0D6 /* blackteaPod1 */,
+				8AC4849348688F4787177CB9B10A5A24 /* blackteaPod1 */,
 			);
 			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		112C7921E3A497328D11F4930CBBC9CA /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				3997E5D2953ECDF377B85B234FDF550D /* Foundation.framework */,
+			);
+			name = iOS;
 			sourceTree = "<group>";
 		};
 		1F0B23D0812379D2CF050AD630EF365F /* Pods-blackteaPod1_Example */ = {
@@ -141,16 +150,6 @@
 			path = "Target Support Files/Pods-blackteaPod1_Example";
 			sourceTree = "<group>";
 		};
-		23F7F6159AC58D07BBB2BACE24BCE0D6 /* blackteaPod1 */ = {
-			isa = PBXGroup;
-			children = (
-				6D4B944126693C94E5B47E2BB57C8180 /* Pod */,
-				C49F5F5109229C30A5FC7CB1A9CB27EE /* Support Files */,
-			);
-			name = blackteaPod1;
-			path = ../..;
-			sourceTree = "<group>";
-		};
 		245DF52F4A15D81C0AC638780E3B61A8 /* Pods-blackteaPod1_Tests */ = {
 			isa = PBXGroup;
 			children = (
@@ -169,12 +168,23 @@
 			path = "Target Support Files/Pods-blackteaPod1_Tests";
 			sourceTree = "<group>";
 		};
-		6D4B944126693C94E5B47E2BB57C8180 /* Pod */ = {
+		67C9CC13635CB28D7CC2E47E372DAF62 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				AB27C216960069A5A436D61C9355408F /* Classes */,
+				38D034EF074538985E6E031A614EC91D /* blackteaPod1.bundle */,
+				516353FE831D603166D9BDBCD8203D21 /* blackteaPod1.framework */,
+				971D4576CA42661726FCEE4DD927CD51 /* Pods_blackteaPod1_Example.framework */,
+				197B2813F96353DF1F67ADC3C1ACD9E8 /* Pods_blackteaPod1_Tests.framework */,
 			);
-			path = Pod;
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6BFAFB84DFD7E4F2CC311364AABF8AA6 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				5D822D733BE9F691372E06452558D6EF /* ReplaceMe.m */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
@@ -183,17 +193,42 @@
 				BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */,
 				0D437DFD0862670EB322F53A1DE7E4CD /* Development Pods */,
 				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
-				D93FCDE6FAD32625B91C800BC58876F1 /* Products */,
+				67C9CC13635CB28D7CC2E47E372DAF62 /* Products */,
 				BAC212D4728F22EB8A395AD4038C51C4 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
-		AB27C216960069A5A436D61C9355408F /* Classes */ = {
+		8AC4849348688F4787177CB9B10A5A24 /* blackteaPod1 */ = {
 			isa = PBXGroup;
 			children = (
-				F76A79E82429BE05F35C02ADFBAD0670 /* ReplaceMe.m */,
+				AA538AF5E520E82C8B8623EFE5AA2E49 /* Pod */,
+				97ACA509B09C61D1D8B26209CAFFB25E /* Support Files */,
 			);
-			path = Classes;
+			name = blackteaPod1;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		97ACA509B09C61D1D8B26209CAFFB25E /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				928546A67A3548CD899E4820657B01D7 /* blackteaPod1.modulemap */,
+				C4DA15CDF343E11D0AD2DD4470203F6D /* blackteaPod1.xcconfig */,
+				852C7EE33A4FE0890E9E7B334D13430C /* blackteaPod1-dummy.m */,
+				AD788DD16520C1EA345C9A24F7B519B4 /* blackteaPod1-prefix.pch */,
+				9C9C765C108AF253544B9AE2E125EA25 /* blackteaPod1-umbrella.h */,
+				ECCF3675B609E200A942514E3D4870AD /* Info.plist */,
+				A56EF7B6BFC1B56B5B00E62EBE54F3BE /* ResourceBundle-blackteaPod1-Info.plist */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/blackteaPod1";
+			sourceTree = "<group>";
+		};
+		AA538AF5E520E82C8B8623EFE5AA2E49 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				6BFAFB84DFD7E4F2CC311364AABF8AA6 /* Classes */,
+			);
+			path = Pod;
 			sourceTree = "<group>";
 		};
 		BAC212D4728F22EB8A395AD4038C51C4 /* Targets Support Files */ = {
@@ -208,47 +243,22 @@
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				BF6342C8B29F4CEEA088EFF7AB4DE362 /* iOS */,
+				112C7921E3A497328D11F4930CBBC9CA /* iOS */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		BF6342C8B29F4CEEA088EFF7AB4DE362 /* iOS */ = {
-			isa = PBXGroup;
-			children = (
-				3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */,
-			);
-			name = iOS;
-			sourceTree = "<group>";
-		};
-		C49F5F5109229C30A5FC7CB1A9CB27EE /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				E24CDC2A18E08FE16B7FAA728ECAD6F7 /* blackteaPod1.modulemap */,
-				8622BC6BB2C043D39A49087E6E775AAF /* blackteaPod1.xcconfig */,
-				95C36805D0EECD43C3B3B92F18691A81 /* blackteaPod1-dummy.m */,
-				F4351EA39E529A6D2A054209093C5B5B /* blackteaPod1-prefix.pch */,
-				CEA78519164B41BCF1BE5831A8681FC9 /* blackteaPod1-umbrella.h */,
-				C5A98972A8FD7E20ECFDD29433A0E774 /* Info.plist */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/blackteaPod1";
-			sourceTree = "<group>";
-		};
-		D93FCDE6FAD32625B91C800BC58876F1 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				ABE9C1EB2126D46CE922CD19F930BA49 /* blackteaPod1.bundle */,
-				D01F10D94C356204A01AAEB89F381CBC /* blackteaPod1.framework */,
-				D3DE80D56A870F1C1810C7BB214CBAE8 /* Pods_blackteaPod1_Example.framework */,
-				EC3B7AEF6633408E6508C3E581F1C2E0 /* Pods_blackteaPod1_Tests.framework */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
+		031F15BF08F0BF6A0FE9276904FD5A86 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				46B65979A619335CF190CCB64D44004A /* Pods-blackteaPod1_Tests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		84BDFB37FF2F18AF3B0E19A40B686D0B /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -257,19 +267,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BDFEFD394F7A76D9834220BD078829BD /* Headers */ = {
+		D39780B9822111BC3EF39F94995E2E15 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F7CCD783E7B64C01BF5BA390D4C89C23 /* Pods-blackteaPod1_Tests-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		F78EF9C377D8C4516371B70AAFEC64E6 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				7181FFC2807ADDED5C7AB27D39E82552 /* Pods-blackteaPod1_Example-umbrella.h in Headers */,
+				E0775BC225FFB810BD30539455FC5B66 /* Pods-blackteaPod1_Example-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -290,44 +292,8 @@
 			);
 			name = "blackteaPod1-blackteaPod1";
 			productName = "blackteaPod1-blackteaPod1";
-			productReference = ABE9C1EB2126D46CE922CD19F930BA49 /* blackteaPod1.bundle */;
+			productReference = 38D034EF074538985E6E031A614EC91D /* blackteaPod1.bundle */;
 			productType = "com.apple.product-type.bundle";
-		};
-		57FF105DE1F2995A0931BBCC22F995B8 /* Pods-blackteaPod1_Example */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = E17F6BE1A029215E3B3E42ED58D56EAD /* Build configuration list for PBXNativeTarget "Pods-blackteaPod1_Example" */;
-			buildPhases = (
-				FC055561E78335D084E4CC61E0CB407E /* Sources */,
-				58B82CF46242F2C57713B88F3FF975CD /* Frameworks */,
-				F78EF9C377D8C4516371B70AAFEC64E6 /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				BBF320992A73E5A518255BA5E6D2AE13 /* PBXTargetDependency */,
-			);
-			name = "Pods-blackteaPod1_Example";
-			productName = "Pods-blackteaPod1_Example";
-			productReference = D3DE80D56A870F1C1810C7BB214CBAE8 /* Pods_blackteaPod1_Example.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		C23279125CF1A9A4F1DB277290BE63BC /* Pods-blackteaPod1_Tests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 6896FBED177F7601F906153D9B342FBA /* Build configuration list for PBXNativeTarget "Pods-blackteaPod1_Tests" */;
-			buildPhases = (
-				C61431E5D1DEA23DE2A782F43F42E720 /* Sources */,
-				2EBDCC6F36F3EAE45CE5B68915629F5A /* Frameworks */,
-				BDFEFD394F7A76D9834220BD078829BD /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				C738F5F9721620AF359B6B12A53DF94F /* PBXTargetDependency */,
-			);
-			name = "Pods-blackteaPod1_Tests";
-			productName = "Pods-blackteaPod1_Tests";
-			productReference = EC3B7AEF6633408E6508C3E581F1C2E0 /* Pods_blackteaPod1_Tests.framework */;
-			productType = "com.apple.product-type.framework";
 		};
 		DE5B283914D272330A4D1F08CE44C06C /* blackteaPod1 */ = {
 			isa = PBXNativeTarget;
@@ -345,7 +311,43 @@
 			);
 			name = blackteaPod1;
 			productName = blackteaPod1;
-			productReference = D01F10D94C356204A01AAEB89F381CBC /* blackteaPod1.framework */;
+			productReference = 516353FE831D603166D9BDBCD8203D21 /* blackteaPod1.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		EC72CA0AD84906C749ECA5682F7FFF3F /* Pods-blackteaPod1_Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 86A8CF08B8E33836E415693BC6ADB5EC /* Build configuration list for PBXNativeTarget "Pods-blackteaPod1_Tests" */;
+			buildPhases = (
+				075B272576B3988A4A5439FA85B17334 /* Sources */,
+				6F2C41A79177735EDF298B7961AF7C8F /* Frameworks */,
+				031F15BF08F0BF6A0FE9276904FD5A86 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				67AEE56705EFDC052D53A86F081ACFFD /* PBXTargetDependency */,
+			);
+			name = "Pods-blackteaPod1_Tests";
+			productName = "Pods-blackteaPod1_Tests";
+			productReference = 197B2813F96353DF1F67ADC3C1ACD9E8 /* Pods_blackteaPod1_Tests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		FAAE6577C986AB87F898707C890D993D /* Pods-blackteaPod1_Example */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F9FC69F44712C2B0CD9CE5E7355B7CB6 /* Build configuration list for PBXNativeTarget "Pods-blackteaPod1_Example" */;
+			buildPhases = (
+				537774D4BB7C2C73D9DDEDA3842DA8D9 /* Sources */,
+				76296F73E7CC7F6A16E380276F6618E0 /* Frameworks */,
+				D39780B9822111BC3EF39F94995E2E15 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EC887A2E08B82FFC48B2B09746096EF8 /* PBXTargetDependency */,
+			);
+			name = "Pods-blackteaPod1_Example";
+			productName = "Pods-blackteaPod1_Example";
+			productReference = 971D4576CA42661726FCEE4DD927CD51 /* Pods_blackteaPod1_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -354,7 +356,7 @@
 		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 0700;
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0700;
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
@@ -365,14 +367,14 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = D93FCDE6FAD32625B91C800BC58876F1 /* Products */;
+			productRefGroup = 67C9CC13635CB28D7CC2E47E372DAF62 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				DE5B283914D272330A4D1F08CE44C06C /* blackteaPod1 */,
 				0C71DCAFB2D1F24B0C0014F1BD75A91D /* blackteaPod1-blackteaPod1 */,
-				57FF105DE1F2995A0931BBCC22F995B8 /* Pods-blackteaPod1_Example */,
-				C23279125CF1A9A4F1DB277290BE63BC /* Pods-blackteaPod1_Tests */,
+				FAAE6577C986AB87F898707C890D993D /* Pods-blackteaPod1_Example */,
+				EC72CA0AD84906C749ECA5682F7FFF3F /* Pods-blackteaPod1_Tests */,
 			);
 		};
 /* End PBXProject section */
@@ -396,6 +398,22 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		075B272576B3988A4A5439FA85B17334 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				08C63BF4B9A5D32AF938A3EF65A0BD02 /* Pods-blackteaPod1_Tests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		537774D4BB7C2C73D9DDEDA3842DA8D9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				223EA93944F8E709E407E8A8D0BD868F /* Pods-blackteaPod1_Example-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		8853F186F8C821F533EFC6D1412A055B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -412,47 +430,60 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C61431E5D1DEA23DE2A782F43F42E720 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				FA9358D58DD5F62AB63A9120E47264D0 /* Pods-blackteaPod1_Tests-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		FC055561E78335D084E4CC61E0CB407E /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				33986DD99E0E5399D4EEB50639051D1F /* Pods-blackteaPod1_Example-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
+		67AEE56705EFDC052D53A86F081ACFFD /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = blackteaPod1;
+			target = DE5B283914D272330A4D1F08CE44C06C /* blackteaPod1 */;
+			targetProxy = F025384F23D1E82D11849D74F59BAE79 /* PBXContainerItemProxy */;
+		};
 		A0EDB6EB85FE6B3397DAB1527744554C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "blackteaPod1-blackteaPod1";
 			target = 0C71DCAFB2D1F24B0C0014F1BD75A91D /* blackteaPod1-blackteaPod1 */;
 			targetProxy = B314ED6978683C6563714C05293D3344 /* PBXContainerItemProxy */;
 		};
-		BBF320992A73E5A518255BA5E6D2AE13 /* PBXTargetDependency */ = {
+		EC887A2E08B82FFC48B2B09746096EF8 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = blackteaPod1;
 			target = DE5B283914D272330A4D1F08CE44C06C /* blackteaPod1 */;
-			targetProxy = 10B46259023FD5FC57A95445BB1703AB /* PBXContainerItemProxy */;
-		};
-		C738F5F9721620AF359B6B12A53DF94F /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = blackteaPod1;
-			target = DE5B283914D272330A4D1F08CE44C06C /* blackteaPod1 */;
-			targetProxy = 951B5BD5D7EAA7FD37F42A16BE8813C1 /* PBXContainerItemProxy */;
+			targetProxy = 4510E70302A2ED241FA8966945F3FDF4 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		03CA91998D6773EC5D02B3DB87B8353E /* Release */ = {
+		100F1AEDCF51F7B47D9987AFA32BF05A /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C4DA15CDF343E11D0AD2DD4470203F6D /* blackteaPod1.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/blackteaPod1/blackteaPod1-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/blackteaPod1/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/blackteaPod1/blackteaPod1.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = blackteaPod1;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		2C442C92732ADBDBFA54CF4EA7B71CDF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -472,7 +503,10 @@
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
-				GCC_PREPROCESSOR_DEFINITIONS = "RELEASE=1";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
@@ -486,7 +520,200 @@
 			};
 			name = Release;
 		};
-		0B57334D6C23DADAA4F7D802A5760EB2 /* Debug */ = {
+		54612B6DEB957A61D4B5771768307911 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1232C65604578E0D550FF2B536597D54 /* Pods-blackteaPod1_Tests.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-blackteaPod1_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-blackteaPod1_Tests/Pods-blackteaPod1_Tests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_blackteaPod1_Tests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		5E3362561762775B9EECEB020294A22A /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C4DA15CDF343E11D0AD2DD4470203F6D /* blackteaPod1.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/blackteaPod1/ResourceBundle-blackteaPod1-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_NAME = blackteaPod1;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Release;
+		};
+		77DA688AAF823195E92239238D016110 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = DF43DB7A2F41B69A9A52BFB71EA8B1BB /* Pods-blackteaPod1_Example.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-blackteaPod1_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-blackteaPod1_Example/Pods-blackteaPod1_Example.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_blackteaPod1_Example;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		866B6F1114A234C1C296FA9F0BC6A471 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 47748DAD1816F8EC3E5C784EE108A5C9 /* Pods-blackteaPod1_Tests.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-blackteaPod1_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-blackteaPod1_Tests/Pods-blackteaPod1_Tests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_blackteaPod1_Tests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		8B8E8D19EE95A07C9071BD5BF00F2528 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C4DA15CDF343E11D0AD2DD4470203F6D /* blackteaPod1.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/blackteaPod1/blackteaPod1-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/blackteaPod1/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/blackteaPod1/blackteaPod1.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = blackteaPod1;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		B00D9F0A6BC8E0E8CBFD5A1FDB1771C4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C4DA15CDF343E11D0AD2DD4470203F6D /* blackteaPod1.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/blackteaPod1/ResourceBundle-blackteaPod1-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_NAME = blackteaPod1;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Debug;
+		};
+		CA8823AABF6B316B8D1A53FFD77F0209 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BDC890A39BEE2A0A5211D2269AFE10E9 /* Pods-blackteaPod1_Example.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-blackteaPod1_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-blackteaPod1_Example/Pods-blackteaPod1_Example.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_blackteaPod1_Example;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		DB44C5CA5E7AC762546FE4E73ED003F3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -504,10 +731,12 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
 					"DEBUG=1",
 					"$(inherited)",
 				);
@@ -525,212 +754,14 @@
 			};
 			name = Debug;
 		};
-		11D65369EEAAF69CCF24B8318BF9BA0A /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = DF43DB7A2F41B69A9A52BFB71EA8B1BB /* Pods-blackteaPod1_Example.release.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-blackteaPod1_Example/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-blackteaPod1_Example/Pods-blackteaPod1_Example.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_NAME = Pods_blackteaPod1_Example;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		12E80A8D73CDBA68F57D763C6752C8F4 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8622BC6BB2C043D39A49087E6E775AAF /* blackteaPod1.xcconfig */;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				PRODUCT_NAME = blackteaPod1;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Debug;
-		};
-		2452D0E99F47DF4B767FCE3A0BFDB1D2 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = BDC890A39BEE2A0A5211D2269AFE10E9 /* Pods-blackteaPod1_Example.debug.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-blackteaPod1_Example/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-blackteaPod1_Example/Pods-blackteaPod1_Example.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_NAME = Pods_blackteaPod1_Example;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		271D63D5F55B60F169FA27EF04AA15F8 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8622BC6BB2C043D39A49087E6E775AAF /* blackteaPod1.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/blackteaPod1/blackteaPod1-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/blackteaPod1/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/blackteaPod1/blackteaPod1.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_NAME = blackteaPod1;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		5E24C6398D7A130F101C9F71DA99C435 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1232C65604578E0D550FF2B536597D54 /* Pods-blackteaPod1_Tests.debug.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-blackteaPod1_Tests/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-blackteaPod1_Tests/Pods-blackteaPod1_Tests.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_NAME = Pods_blackteaPod1_Tests;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		78A2418855DDB1AC6B201EC5ACB5DBCB /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8622BC6BB2C043D39A49087E6E775AAF /* blackteaPod1.xcconfig */;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				PRODUCT_NAME = blackteaPod1;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Release;
-		};
-		84F6D60F4679CCB92A454A5D9EE4CFAE /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 47748DAD1816F8EC3E5C784EE108A5C9 /* Pods-blackteaPod1_Tests.release.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-blackteaPod1_Tests/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-blackteaPod1_Tests/Pods-blackteaPod1_Tests.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_NAME = Pods_blackteaPod1_Tests;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		FBA28160DF9CEFA2C125FF9EE9939AAC /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8622BC6BB2C043D39A49087E6E775AAF /* blackteaPod1.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/blackteaPod1/blackteaPod1-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/blackteaPod1/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/blackteaPod1/blackteaPod1.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_NAME = blackteaPod1;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
 		15954CB48B9982DDC4DBD33A79FB28E2 /* Build configuration list for PBXNativeTarget "blackteaPod1-blackteaPod1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				12E80A8D73CDBA68F57D763C6752C8F4 /* Debug */,
-				78A2418855DDB1AC6B201EC5ACB5DBCB /* Release */,
+				B00D9F0A6BC8E0E8CBFD5A1FDB1771C4 /* Debug */,
+				5E3362561762775B9EECEB020294A22A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -738,17 +769,17 @@
 		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0B57334D6C23DADAA4F7D802A5760EB2 /* Debug */,
-				03CA91998D6773EC5D02B3DB87B8353E /* Release */,
+				DB44C5CA5E7AC762546FE4E73ED003F3 /* Debug */,
+				2C442C92732ADBDBFA54CF4EA7B71CDF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6896FBED177F7601F906153D9B342FBA /* Build configuration list for PBXNativeTarget "Pods-blackteaPod1_Tests" */ = {
+		86A8CF08B8E33836E415693BC6ADB5EC /* Build configuration list for PBXNativeTarget "Pods-blackteaPod1_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5E24C6398D7A130F101C9F71DA99C435 /* Debug */,
-				84F6D60F4679CCB92A454A5D9EE4CFAE /* Release */,
+				54612B6DEB957A61D4B5771768307911 /* Debug */,
+				866B6F1114A234C1C296FA9F0BC6A471 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -756,17 +787,17 @@
 		E0287B6D64EE6833207F2FB97672F2E0 /* Build configuration list for PBXNativeTarget "blackteaPod1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				271D63D5F55B60F169FA27EF04AA15F8 /* Debug */,
-				FBA28160DF9CEFA2C125FF9EE9939AAC /* Release */,
+				8B8E8D19EE95A07C9071BD5BF00F2528 /* Debug */,
+				100F1AEDCF51F7B47D9987AFA32BF05A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E17F6BE1A029215E3B3E42ED58D56EAD /* Build configuration list for PBXNativeTarget "Pods-blackteaPod1_Example" */ = {
+		F9FC69F44712C2B0CD9CE5E7355B7CB6 /* Build configuration list for PBXNativeTarget "Pods-blackteaPod1_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2452D0E99F47DF4B767FCE3A0BFDB1D2 /* Debug */,
-				11D65369EEAAF69CCF24B8318BF9BA0A /* Release */,
+				CA8823AABF6B316B8D1A53FFD77F0209 /* Debug */,
+				77DA688AAF823195E92239238D016110 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
